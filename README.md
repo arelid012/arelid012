@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Halid 👋
 
-<!--
-**arelid012/arelid012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring software developer  
+💻 Currently learning Java & web development  
+🚀 Building small projects to improve my skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- Java  
+- HTML, CSS  
+- Basic Git & GitHub  
+
+---
+
+### 🌱 Currently
+- Learning backend & web fundamentals  
+- Working on personal practice projects  
+- Improving problem-solving skills  
+
+---
+
+### 🌐 Connect with me
+🔗 LinkedIn: https://www.linkedin.com/in/Halid  
+📸 Instagram: https://www.instagram.com/ar.lid_  
+🎵 TikTok: https://www.tiktok.com/@lidszlee  
+
+---
+
